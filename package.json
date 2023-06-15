@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:game-school/strapi-database.git"
+    "url": "git+https://github.com/game-school/strapi-database.git"
   },
   "engines": {
     "node": ">=10.16.0 <=18.x.x",
@@ -27,7 +27,7 @@
     "debug": "^4.3.4",
     "lodash": "^4.17.21",
     "p-map": "^6.0.0",
-    "strapi-utils": "git+ssh://git@github.com:game-school/strapi-utils.git",
+    "strapi-utils": "git@github.com:game-school/strapi-utils.git",
     "verror": "^1.10.1"
   }
 }
